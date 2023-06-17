@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>picture bed - 标签 - 把学的写出来 | Write What Learned</title>
+        <link>https://writewhatlearned.github.io/tags/picture-bed/</link>
+        <description>picture bed - 标签 - 把学的写出来 | Write What Learned</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>writewhatlearned@foxmail.com (WW)</managingEditor>
+            <webMaster>writewhatlearned@foxmail.com (WW)</webMaster><copyright>本作品根据知识共享署名-非商业性使用4.0国际许可协议进行许可。</copyright><lastBuildDate>Thu, 08 Jun 2023 13:10:53 &#43;0800</lastBuildDate><atom:link href="https://writewhatlearned.github.io/tags/picture-bed/" rel="self" type="application/rss+xml" /><item>
+    <title>Picture Bed</title>
+    <link>https://writewhatlearned.github.io/post/documentation/picture_bed/</link>
+    <pubDate>Thu, 08 Jun 2023 13:10:53 &#43;0800</pubDate>
+    <author>ww</author>
+    <guid>https://writewhatlearned.github.io/post/documentation/picture_bed/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/" referrerpolicy="no-referrer">
+            </div>如何使用picgo将github作为图床仓库？]]></description>
+</item>
+</channel>
+</rss>

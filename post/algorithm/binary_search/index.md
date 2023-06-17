@@ -2,8 +2,6 @@
 
 <!--more-->
 
-
-
 # 二分查找
 
 ## 原理
@@ -18,7 +16,7 @@
 def binary_search(ordered_list: list, find_value: any) -> Union[int, None]:
     low = 0
     high = len(ordered_list) - 1  # low和high跟踪折半空间
-    
+  
     while low <= high:			 # 循环结束准则，折半空间至少含有1个元素 
         mid = (low + high) / 2	 # 每次比较其中位数值的索引
         guess = ordered_list[mid]

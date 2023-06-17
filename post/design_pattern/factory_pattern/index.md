@@ -1,0 +1,4 @@
+# Factory_pattern
+
+<!--more-->
+
