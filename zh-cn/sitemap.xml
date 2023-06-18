@@ -2,30 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://writewhatlearned.github.io/categories/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://writewhatlearned.github.io/en/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://writewhatlearned.github.io/categories/"
-                    /></url><url>
-            <loc>https://writewhatlearned.github.io/categories/documentation/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/grokking_algorithms/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/tags/handbooks/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/posts/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/tags/readlog/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/tags/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://writewhatlearned.github.io/en/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://writewhatlearned.github.io/tags/"
-                    /></url><url>
-            <loc>https://writewhatlearned.github.io/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://writewhatlearned.github.io/algorithm_and_data_structure/</loc><lastmod>2023-06-18T20:41:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/posts/</loc><lastmod>2023-06-18T20:41:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/</loc><lastmod>2023-06-18T20:41:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://writewhatlearned.github.io/en/"
@@ -34,6 +13,28 @@
                     hreflang="zh-cn"
                     href="https://writewhatlearned.github.io/"
                     /></url><url>
+            <loc>https://writewhatlearned.github.io/categories/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://writewhatlearned.github.io/en/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://writewhatlearned.github.io/categories/"
+                    /></url><url>
+            <loc>https://writewhatlearned.github.io/categories/documentation/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/grokking_algorithms/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/tags/handbooks/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/tags/readlog/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/tags/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://writewhatlearned.github.io/en/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://writewhatlearned.github.io/tags/"
+                    /></url><url>
             <loc>https://writewhatlearned.github.io/factory_pattern/</loc><lastmod>2023-06-17T16:21:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://writewhatlearned.github.io/pandas/</loc><lastmod>2023-06-17T16:21:52&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://writewhatlearned.github.io/categories/algorithm/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -41,6 +42,6 @@
             <loc>https://writewhatlearned.github.io/tags/search-algorithm/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://writewhatlearned.github.io/about/</loc><lastmod>2023-06-12T09:42:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://writewhatlearned.github.io/about/author/</loc><lastmod>2023-06-12T09:42:30&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/tags/headbooks/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/picture_bed/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://writewhatlearned.github.io/tags/picturebed/</loc><lastmod>2023-06-17T21:14:17&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>https://writewhatlearned.github.io/tags/headbooks/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/picture_bed/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://writewhatlearned.github.io/tags/picturebed/</loc><lastmod>2023-06-18T11:59:03&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
